@@ -7,5 +7,5 @@ network = {
 
 table.sort(network,function(a,b)
 	return(a.name > b.name)
-end)OK
+end)
 
